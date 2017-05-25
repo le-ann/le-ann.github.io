@@ -1,3 +1,5 @@
+## HAI. THERE WON'T BE MUCH HERE FOR AWHILE. BUT PLEASE STICK AROUND AS I FIGURE OUT HOW TO MANEUVER THINGS :D 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/le-ann/le-ann.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
