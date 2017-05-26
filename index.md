@@ -4,30 +4,33 @@
 
 [//]: # (You can use the [editor on GitHub] https://github.com/le-ann/le-ann.github.io/edit/master/index.md to maintain and preview the content for your website in Markdown files.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Markdown
+[//]: # (Whenever you commit to this repository, GitHub Pages will run [Jekyll] https://jekyllrb.com/ to rebuild the pages in your site, from the content in your Markdown files.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[//]: # (### Markdown)
 
-```markdown
-Syntax highlighted code block
+[//]: # (Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
 
-# Header 1
-## Header 2
-### Header 3
+[//]: # (```markdown)
+[//]: # (Syntax highlighted code block)
 
-- Bulleted
-- List
+[//]: # (# Header 1)
+[//]: # (## Header 2)
+[//]: # (### Header 3)
 
-1. Numbered
-2. List
+[//]: # (- Bulleted)
+[//]: # (- List)
 
-**Bold** and _Italic_ and `Code` text
+[//]: # (1. Numbered)
+[//]: # (2. List)
 
-[Link](url) and ![Image](src)
-```
+[//]: # (**Bold** and _Italic_ and `Code` text)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[//]: # ([Link](url) and ![Image](src))
+
+
+[//]: # (```)
+
+[//]: # (For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
 
 ### Jekyll Themes
 
